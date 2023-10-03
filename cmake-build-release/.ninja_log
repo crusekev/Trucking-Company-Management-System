@@ -1,0 +1,21 @@
+# ninja log v5
+16	36	1682304476629364065	TCMS_autogen/timestamp	5858cda8449ca6e9
+43	79	1682238255514958583	CMakeFiles/TCMS.dir/TCMS_autogen/mocs_compilation.cpp.o	9a2af6ce54fdcaae
+39	455	1682303446001185522	CMakeFiles/TCMS.dir/Personnel.cpp.o	7027e0b57a7c6fd
+16	36	1682304476629364065	TCMS_autogen/mocs_compilation.cpp	5858cda8449ca6e9
+38	1575	1682304478162295912	CMakeFiles/TCMS.dir/main.cpp.o	654dcbbd8180fcc1
+16	36	1682304476629364065	/Users/kevincruse/Dev/CS499/TCMS/cmake-build-release/TCMS_autogen/timestamp	5858cda8449ca6e9
+16	36	1682304476629364065	/Users/kevincruse/Dev/CS499/TCMS/cmake-build-release/TCMS_autogen/mocs_compilation.cpp	5858cda8449ca6e9
+39	459	1682303446005364337	CMakeFiles/TCMS.dir/Shipment.cpp.o	c17037d9f8306931
+39	452	1682303445997727585	CMakeFiles/TCMS.dir/EquipmentData.cpp.o	9a874170ab8add10
+1575	1692	1682304478283035709	TCMS	3167b875797df879
+6	48	1695782224908444506	TCMS_autogen/timestamp	5858cda8449ca6e9
+6	48	1695782224908444506	TCMS_autogen/mocs_compilation.cpp	5858cda8449ca6e9
+6	48	1695782224908444506	/Users/kevincruse/Dev/CS499/TCMS/cmake-build-release/TCMS_autogen/timestamp	5858cda8449ca6e9
+6	48	1695782224908444506	/Users/kevincruse/Dev/CS499/TCMS/cmake-build-release/TCMS_autogen/mocs_compilation.cpp	5858cda8449ca6e9
+49	77	1695782224936303469	CMakeFiles/TCMS.dir/TCMS_autogen/mocs_compilation.cpp.o	4149b687a2fb3c79
+49	525	1695782225381021901	CMakeFiles/TCMS.dir/EquipmentData.cpp.o	c75bbddb1dd73455
+49	527	1695782225381844035	CMakeFiles/TCMS.dir/Personnel.cpp.o	11dd553a5079d1bf
+49	530	1695782225386360292	CMakeFiles/TCMS.dir/Shipment.cpp.o	185ccbea35f364f1
+49	1866	1695782226720275587	CMakeFiles/TCMS.dir/main.cpp.o	bbe75292634e7eb1
+1866	1971	1695782226828851698	TCMS	7636737ad91c4f78

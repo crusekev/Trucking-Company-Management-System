@@ -1,0 +1,5 @@
+/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/CMakeFiles/TCMS.dir
+/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/CMakeFiles/TCMS_autogen_timestamp_deps.dir
+/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/CMakeFiles/TCMS_autogen.dir

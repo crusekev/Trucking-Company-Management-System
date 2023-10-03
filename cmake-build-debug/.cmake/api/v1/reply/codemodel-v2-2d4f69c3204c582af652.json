@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TCMS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TCMS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TCMS-Debug-624fdd7b03e0482c7f12.json",
+					"name" : "TCMS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TCMS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TCMS_autogen-Debug-0e9271f7456aff961212.json",
+					"name" : "TCMS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TCMS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TCMS_autogen_timestamp_deps-Debug-e96b2aa28f884ce38338.json",
+					"name" : "TCMS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug",
+		"source" : "/Users/kevincruse/Dev/CS499/TCMS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

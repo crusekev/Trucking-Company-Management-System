@@ -1,0 +1,12 @@
+# ninja log v5
+1	314	1695782203844446946	build.ninja	514843c5838de465
+40	397	1682215698540796371	CMakeFiles/TCMS.dir/EquipmentData.cpp.o	80c062424d17dd38
+16	50	1682293997118067255	/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/TCMS_autogen/mocs_compilation.cpp	b58407da1f500f94
+16	50	1682293997118067255	TCMS_autogen/timestamp	b58407da1f500f94
+36	416	1682239452976584062	CMakeFiles/TCMS.dir/Personnel.cpp.o	e7f8cc7e92ee7df7
+39	62	1681186731559164485	CMakeFiles/TCMS.dir/TCMS_autogen/mocs_compilation.cpp.o	b22e82883dfc0db0
+36	378	1682217312441360884	CMakeFiles/TCMS.dir/Shipment.cpp.o	98c0f6ac7c0f37f
+16	50	1682293997118067255	/Users/kevincruse/Dev/CS499/TCMS/cmake-build-debug/TCMS_autogen/timestamp	b58407da1f500f94
+51	1372	1682293998433938279	CMakeFiles/TCMS.dir/main.cpp.o	b36a723da3558982
+16	50	1682293997118067255	TCMS_autogen/mocs_compilation.cpp	b58407da1f500f94
+1372	1494	1682293998559677792	TCMS	bf2b15749645ebee
